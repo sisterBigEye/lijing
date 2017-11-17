@@ -1,0 +1,9 @@
+Tue,17 Oct 2017 11:54:22 -logger_logger: DEBUG    it's over  
+Tue,17 Oct 2017 11:56:33 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 14:06:36 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 14:46:46 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 14:47:28 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 15:36:26 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 15:37:26 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 17:12:04 -logger_logger.child: DEBUG    it's over  
+Tue,17 Oct 2017 17:15:50 -logger_logger.child: DEBUG    it's over  
