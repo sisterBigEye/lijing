@@ -1,1 +1,0 @@
-(dengji_state,re_p_in_law,est_data,reg_jiguan,scape,from_data,reg_invest,hezhunriqi,end_data,type,companyname,socialcode,place)
